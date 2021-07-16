@@ -1,1 +1,12 @@
-/* You can add global styles to this file, and also import other style files */
+/* estilo de uigradients */
+
+body {
+    background: #8E0E00;
+    background: -webkit-linear-gradient(to right, #1F1C18, #8E0E00);
+    background: linear-gradient(to right, #1F1C18, #8E0E00);
+}
+
+.titulo {
+    font-family: 'Kanit', sans-serif;
+    text-align: center;
+}
